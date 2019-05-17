@@ -1,2 +1,2 @@
 Repo up now
-Mr Invisible Fork with Openscrapers ...And Galant Exodus Mob and some other things
+Mr Invisible Fork with Openscrapers ...and some other things

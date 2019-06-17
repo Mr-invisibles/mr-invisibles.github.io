@@ -1,0 +1,198 @@
+
+ <dir>
+    <name>[COLOR red]All Real-Debrid Movies[/COLOR]</name>
+   <link>http://luxurywizard.space/xmls/rd/rdmovies/all.rd.xml</link>
+   <summary>All Real-Debrid Movies</summary>
+ </dir>
+ 
+  <dir>
+    <name>[COLOR red]Real-Debrid Movie Boxsets[/COLOR]</name>
+   <link>http://luxurywizard.space/xmls/rd/movie.boxsets/main.boxsets.xml</link>
+   <summary>All Real-Debrid Movie Boxsets</summary>
+ </dir>
+ 
+ <dir>
+    <name>[COLOR red]4K Real-Debrid Movies[/COLOR]</name>
+   <link>http://luxurywizard.space/xmls/movies/4k.xml</link>
+   <summary>4K Movies</summary>
+ </dir>
+ 
+ <dir>
+    <name>[COLOR red]Real-Debrid Horror Movies[/COLOR]</name>
+    <link>http://luxurywizard.space/xmls/movies/horror/horror.xml</link>
+	<summary></summary>
+  </dir>
+ 
+  <dir>
+    <name>[COLOR red]Real-Debrid Comedy Movies[/COLOR]</name>
+   <link>http://luxurywizard.space/xmls/rd/comedymovies1.xml</link>
+   <summary>Comedy Movies</summary>
+ </dir>
+ 
+ <dir>
+    <name>[COLOR red]2019/2018 Real-Debrid Movies[/COLOR]</name>
+   <link>http://luxurywizard.space/xmls/rd/rdmovies/2018/moviee.xml</link>
+   <summary>2019/2018 Movies</summary>
+ </dir>
+ 
+ <dir>
+    <name>[COLOR red]2017 Real-Debrid Movies[/COLOR]</name>
+   <link>http://luxurywizard.space/xmls/rd/rdmovies/2017/rdpage2.xml</link>
+   <summary>2017 Movies</summary>
+ </dir>
+ 
+ <dir>
+    <name>[COLOR red]2016 Real-Debrid Movies[/COLOR]</name>
+   <link>http://luxurywizard.space/xmls/rd/rdmovies/2016/rdpage7.xml</link>
+   <summary>2016 Movies</summary>
+ </dir>
+ 
+ <dir>
+    <name>[COLOR red]2015 Real-Debrid Movies[/COLOR]</name>
+   <link>http://luxurywizard.space/xmls/rd/rdmovies/2015/rdpage12.xml</link>
+   <summary>2015 Movies</summary>
+ </dir>
+ 
+ <dir>
+    <name>[COLOR red]2014 Real-Debrid Movies[/COLOR]</name>
+   <link>http://luxurywizard.space/xmls/rd/rdmovies/2014/rdpage16.xml</link>
+   <summary>2014 Movies</summary>
+ </dir>
+ 
+ <dir>
+    <name>[COLOR red]2013 Real-Debrid Movies[/COLOR]</name>
+   <link>http://luxurywizard.space/xmls/rd/rdmovies/2013/rdpage19.xml</link>
+   <summary>2013 Movies</summary>
+ </dir>
+ 
+ <dir>
+    <name>[COLOR red]2012 Real-Debrid Movies[/COLOR]</name>
+   <link>http://luxurywizard.space/xmls/rd/rdmovies/2012/rdpage22.xml</link>
+   <summary>2012 Movies</summary>
+ </dir>
+ 
+ <dir>
+    <name>[COLOR red]2011 Real-Debrid Movies[/COLOR]</name>
+   <link>http://luxurywizard.space/xmls/rd/rdmovies/2011/rdpage26.xml</link>
+   <summary>2011 Movies</summary>
+ </dir>
+ 
+ <dir>
+    <name>[COLOR red]2010 Real-Debrid Movies[/COLOR]</name>
+   <link>http://luxurywizard.space/xmls/rd/rdmovies/2010/rdpage29.xml</link>
+   <summary>2010 Movies</summary>
+ </dir>
+ 
+ <dir>
+    <name>[COLOR red]2009 Real-Debrid Movies[/COLOR]</name>
+   <link>http://luxurywizard.space/xmls/rd/rdmovies/2009/rdpage32.xml</link>
+   <summary>2009 Movies</summary>
+ </dir>
+ 
+ <dir>
+    <name>[COLOR red]2008 Real-Debrid Movies[/COLOR]</name>
+   <link>http://luxurywizard.space/xmls/rd/rdmovies/2008/rdpage35.xml</link>
+   <summary>2008 Movies</summary>
+ </dir>
+ 
+ <dir>
+    <name>[COLOR red]2007 Real-Debrid Movies[/COLOR]</name>
+   <link>http://luxurywizard.space/xmls/rd/rdmovies/2007/rdpage38.xml</link>
+   <summary>2007 Movies</summary>
+ </dir>
+ 
+ <dir>
+    <name>[COLOR red]2006 Real-Debrid Movies[/COLOR]</name>
+   <link>http://luxurywizard.space/xmls/rd/rdmovies/2006/rdpage40.xml</link>
+   <summary>2006 Movies</summary>
+ </dir>
+ 
+ <dir>
+    <name>[COLOR red]2005 Real-Debrid Movies[/COLOR]</name>
+   <link>http://luxurywizard.space/xmls/rd/rdmovies/2005/rdpage43.xml</link>
+   <summary>2005 Movies</summary>
+ </dir>
+ 
+ <dir>
+    <name>[COLOR red]2004 Real-Debrid Movies[/COLOR]</name>
+   <link>http://luxurywizard.space/xmls/rd/rdmovies/2004/rdpage46.xml</link>
+   <summary>2004 Movies</summary>
+ </dir>
+ 
+ <dir>
+    <name>[COLOR red]2003 Real-Debrid Movies[/COLOR]</name>
+   <link>http://luxurywizard.space/xmls/rd/rdmovies/2003/rdpage49.xml</link>
+   <summary>2003 Movies</summary>
+ </dir>
+ 
+ <dir>
+    <name>[COLOR red]2002 Real-Debrid Movies[/COLOR]</name>
+   <link>http://luxurywizard.space/xmls/rd/rdmovies/2002/rdpage52.xml</link>
+   <summary>2002 Movies</summary>
+ </dir>
+ 
+ <dir>
+    <name>[COLOR red]2001 Real-Debrid Movies[/COLOR]</name>
+   <link>http://luxurywizard.space/xmls/rd/rdmovies/2001/rdpage55.xml</link>
+   <summary>2001 Movies</summary>
+ </dir>
+ 
+ <dir>
+    <name>[COLOR red]2000 & Under Real-Debrid Movies[/COLOR]</name>
+   <link>http://luxurywizard.space/xmls/movies/rdpage58.xml</link>
+   <summary>2000 & Under Movies</summary>
+ </dir>
+ 
+ <dir>
+    <name>[COLOR red]All Kids Real-Debrid Movies[/COLOR]</name>
+    <link>http://luxurywizard.space/xmls/rd/rdkids/all.kids.rd.xml</link>
+	<thumbnail></thumbnail>
+	<summary>Kids Movies</summary>
+  </dir>
+  
+  <dir>
+    <name>[COLOR red]2018-2016 Kids Real-Debrid Movies[/COLOR]</name>
+    <link>http://luxurywizard.space/xmls/rd//rdkids/2018-2016/kids_movies.xml</link>
+	<thumbnail></thumbnail>
+	<summary>Kids Movies</summary>
+  </dir>
+  
+  <dir>
+    <name>[COLOR red]2015 & Under Kids Real-Debrid Movies[/COLOR]</name>
+    <link>http://luxurywizard.space/xmls/rd/rdkids/2015-1980/kids_moviespg4.xml</link>
+	<thumbnail></thumbnail>
+	<summary>Kids Movies</summary>
+  </dir>
+  
+  <dir>
+    <name>[COLOR red]Real-Debrid Documentaries[/COLOR]</name>
+   <link>http://luxurywizard.space/xmls/rd/docs.xml</link>
+   <summary>Documentaries</summary>
+ </dir>
+
+ <dir>
+    <name>[COLOR red]Real-Debrid Stand-Up Comedy[/COLOR]</name>
+   <link>http://luxurywizard.space/xmls/standup.xml</link>
+   <summary>Stand-Up Comedy</summary>
+ </dir>
+ 
+ <dir>
+    <name>[COLOR red]Real-Debrid Comedy Central Roast[/COLOR]</name>
+   <link>http://luxurywizard.space/xmls/comedyroast.xml</link>
+   <summary>Comedy Central Roast</summary>
+ </dir>
+ 
+ <dir>
+    <name>[COLOR red]UFC PPV Replays (Real-Debrid Only)[/COLOR]</name>
+    <link>http://luxurywizard.space/xmls/ufc.xml</link>
+	<thumbnail></thumbnail>
+	<summary>UFC Replays</summary>
+  </dir>
+  
+  <dir>
+    <name>[COLOR red]WWE PPV Replays (Real-Debrid Only)[/COLOR]</name>
+    <link>http://luxurywizard.space/xmls/rd/wwe.xml</link>
+	<thumbnail></thumbnail>
+	<summary>WWE Replays</summary>
+  </dir>
+  

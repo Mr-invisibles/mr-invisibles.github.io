@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"
+standalone="yes"?>
+
+
+
+<item>
+<title>[B][COLOR FFffe6ff]* [COLOR FF8f35e3]MOVIES[/COLOR][COLOR silver][/B][/COLOR]</title>
+<folder>http://levistitch.tk/pluto/pluto/hades/mov/moviesbase.xml</folder>
+<thumbnail>https://imgur.com/NtZx9Wg.png</thumbnail>
+<fanart>https://imgur.com/97lgXmV.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR FFffe6ff]* [COLOR FF8f35e3]TV SHOWS[/COLOR][COLOR silver][/B][/COLOR]</title>
+<folder>http://levistitch.tk/pluto/pluto/hades/tvshw/tvshws.xml</folder>
+<thumbnail>https://imgur.com/ivQbmRp.png</thumbnail>
+<fanart>https://imgur.com/97lgXmV.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR FFffe6ff]* [COLOR FF8f35e3]DOCS[/COLOR][COLOR silver][/B][/COLOR]</title>
+<folder>http://levistitch.tk/pluto/pluto/hades/doc/docs.xml</folder>
+<thumbnail>https://imgur.com/LDx61Jd.png</thumbnail>
+<fanart>https://imgur.com/97lgXmV.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR FFffe6ff]* [COLOR FF8f35e3]MUSIC VIDEOS[/COLOR] [COLOR silver][/B][/COLOR]</title>
+<folder>http://levistitch.tk/pluto/pluto/hades/mus/mainmusicvid.xml</folder>
+<thumbnail>https://imgur.com/uzrnO6v.png</thumbnail>
+<fanart>https://imgur.com/97lgXmV.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR FFffe6ff]* [COLOR FF8f35e3]SPORTS REPLAY[/COLOR][COLOR silver][/B][/COLOR]</title>
+<folder>http://levistitch.tk/pluto/pluto/hades/spo/sprtmain.xml</folder>
+<thumbnail>https://imgur.com/a8UxL8Q.png</thumbnail>
+<fanart>https://imgur.com/97lgXmV.jpg</fanart>
+</item>
+
+<item>
+<title>[B][COLOR FFffe6ff]* [COLOR FF8f35e3]EVENTS[/COLOR] [COLOR silver][/B][/COLOR]</title>
+<folder>http://levistitch.tk/pluto/pluto/hades/eve/testtv.xml</folder>
+<thumbnail>https://imgur.com/SdPJjkQ.png</thumbnail>
+<fanart>https://imgur.com/97lgXmV.jpg</fanart>
+</item>
+
+
+
+
+
+

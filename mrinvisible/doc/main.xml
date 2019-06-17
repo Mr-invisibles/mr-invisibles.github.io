@@ -1,0 +1,26 @@
+<xml>
+  <dir>
+    <title>Movies 1080p</title>
+    <link>https://raw.githubusercontent.com/Mr-invisibles/mr-invisibles.github.io/master/mrinvisible/doc/movies.xml</link>
+  </dir>
+
+  <dir>
+    <title>REMUX</title>
+    <link>https://raw.githubusercontent.com/Mr-invisibles/mr-invisibles.github.io/master/mrinvisible/doc/moviesremux.xml</link>
+  </dir>
+
+  <dir>
+    <title>DTS</title>
+    <link>https://raw.githubusercontent.com/Mr-invisibles/mr-invisibles.github.io/master/mrinvisible/doc/movdts.xml</link>
+  </dir>
+
+  <dir>
+    <title>4K</title>
+    <link>https://raw.githubusercontent.com/Mr-invisibles/mr-invisibles.github.io/master/mrinvisible/doc/4kmovies.xml</link>
+  </dir>
+
+  <dir>
+    <title>Debrid</title>
+    <link>https://raw.githubusercontent.com/Mr-invisibles/mr-invisibles.github.io/master/mrinvisible/doc/rd.xml</link>
+  </dir>
+</xml>

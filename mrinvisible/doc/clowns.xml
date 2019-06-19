@@ -1,0 +1,287 @@
+<item>
+	<title>[B][COLORred]===VPN SUGGESTED===[/COLOR][/B]</title>
+	<thumbnail></thumbnail>
+</item>
+<item>
+	<title>[B][COLORyellow]==== If You Cant Find It Here, Its Not On! ====[/COLOR][/B]</title>
+</item>
+<item>
+	<title>[B]******** IPTV Stuff ********[/B]</title>
+	<thumbnail></thumbnail>
+</item>
+<plugin>
+	<title>USA Live TV</title>
+	<link>https://raw.githubusercontent.com/the13clowns/resources/master/tRmKGjTbr/xmls/iptv/USA.m3u</link>
+</plugin>
+<plugin>
+	<title>Canada Live TV</title>
+	<link>https://raw.githubusercontent.com/the13clowns/resources/master/tRmKGjTbr/xmls/iptv/canada.m3u</link>
+</plugin>
+<plugin>
+	<title>UK Live TV</title>
+	<link>https://raw.githubusercontent.com/the13clowns/resources/master/tRmKGjTbr/xmls/iptv/uk.m3u</link>
+</plugin>
+<plugin>
+	<title>World Live TV</title>
+	<link>https://raw.githubusercontent.com/the13clowns/resources/master/tRmKGjTbr/xmls/iptv/world.m3u</link>
+</plugin>
+<item>
+	<title>[B]******** 24/7 Stuff ********[/B]</title>
+	<thumbnail></thumbnail>
+</item>
+<dir>
+	<name>24/7 Movies</name>
+	<link>https://raw.githubusercontent.com/the13clowns/resources/master/tRmKGjTbr/xmls/247movies.xml</link>
+</dir>
+<dir>
+	<name>24/7 TV Shows</name>
+	<link>https://raw.githubusercontent.com/the13clowns/resources/master/tRmKGjTbr/xmls/247shows.xml</link>
+</dir>
+<item>
+	<title>[B]******** 1 Click Movies ********[/B]</title>
+	<thumbnail></thumbnail>
+</item>
+<dir>
+	<name>4K Ultra HD Movies</name>
+	<link>http://miniaturelife67.co.uk/frank/ghost/ghostxmls/xmls1/wwe.xml</link>
+	<animated_thumbnail></animated_thumbnail>
+	<thumbnail></thumbnail>
+	<animated_fanart></animated_fanart>
+	<fanart></fanart>
+</dir>
+<dir>
+	<name>One Click Movies (REAL DEBRID REQUIRED)</name>
+	<link>http://miniaturelife67.co.uk/frank/ghost/ghostxmls/xmls1/rd.xml</link>
+	<animated_thumbnail></animated_thumbnail>
+	<thumbnail></thumbnail>
+	<animated_fanart></animated_fanart>
+	<fanart></fanart>
+</dir>
+<dir>
+	<name>Rd Lounge</name>
+	<link>https://raw.githubusercontent.com/Mr-invisibles/mr-invisibles.github.io/master/mrinvisible/doc/rdlounge.xml</link>
+	<animated_thumbnail></animated_thumbnail>
+	<thumbnail></thumbnail>
+	<animated_fanart></animated_fanart>
+	<fanart></fanart>
+</dir>
+<item>
+	<title>[B]******** Kids Stuff ********[/B]</title>
+	<thumbnail></thumbnail>
+</item>
+<dir>
+	<name>One Click Kids</name>
+	<link>http://miniaturelife67.co.uk/frank/ghost/ghostxmls/xmls1/disney.xml</link>
+	<animated_thumbnail></animated_thumbnail>
+	<thumbnail></thumbnail>
+	<animated_fanart></animated_fanart>
+	<fanart></fanart>
+</dir>
+<item>
+	<title>[B]******** All Things Sports ********[/B]</title>
+	<thumbnail></thumbnail>
+</item>
+<dir>
+	<title>>>>Live PPV Events<<<</title>
+			<link>https://raw.githubusercontent.com/the13clowns/resources/master/tRmKGjTbr/xmls/sports/ppv.xml</link>
+		</dir>
+		<item>
+			<title>====Leagues====</title>
+		</item>
+		<dir>
+			<title>****NCAA****</title>
+			<link>https://raw.githubusercontent.com/the13clowns/resources/master/tRmKGjTbr/xmls/sports/ncaa.xml</link>
+		</dir>
+		<dir>
+			<title>****NFL****</title>
+			<link>https://raw.githubusercontent.com/the13clowns/resources/master/tRmKGjTbr/xmls/sports/nfl.xml</link>
+		</dir>
+		<dir>
+			<title>****NBA****</title>
+			<link>https://raw.githubusercontent.com/the13clowns/resources/master/tRmKGjTbr/xmls/sports/nba.xml</link>
+		</dir>
+		<dir>
+			<title>****MLB****</title>
+			<link>https://raw.githubusercontent.com/the13clowns/resources/master/tRmKGjTbr/xmls/sports/mlb.xml</link>
+		</dir>
+		<dir>
+			<title>****NHL****</title>
+			<link>https://raw.githubusercontent.com/the13clowns/resources/master/tRmKGjTbr/xmls/sports/nhl.xml</link>
+		</dir>
+		<dir>
+			<title>****UFC****</title>
+			<link>https://raw.githubusercontent.com/the13clowns/resources/master/tRmKGjTbr/xmls/sports/ufc.xml</link>
+		</dir>
+		<dir>
+			<title>****WWE Universe****</title>
+			<link>https://raw.githubusercontent.com/the13clowns/resources/master/tRmKGjTbr/xmls/sports/wwe/wwe.xml</link>
+			<thumbnail></thumbnail>
+		</dir>
+		<item>
+			<title>==== Sports Networks====</title>
+			<link></link>
+			<thumbnail></thumbnail>
+		</item>
+		<dir>
+			<title>Pac-12 Networks</title>
+			<link>https://raw.githubusercontent.com/the13clowns/resources/master/tRmKGjTbr/xmls/sports/pac12.xml</link>
+			<thumbnail>https://static.pac-12.com/images/logos/pac-12-network-logo.png</thumbnail>
+		</dir>
+		<item>
+			<title>Big 10 Network</title>
+			<link>http://161.0.157.38/PLTV/88888888/224/3221226177/index.m3u8?fluxustv.m3u8</link>
+			<thumbnail>https://pbs.twimg.com/profile_images/992425758940368901/_XC0bfRl_400x400.jpg</thumbnail>
+		</item>
+		<item>
+			<title>ESPN News</title>
+			<link>http://espn.tmedia.me/cache/espnews.m3u8</link>
+			<thumbnail>http://i68.tinypic.com/28bfm7o.jpg</thumbnail>
+		</item>
+		<item>
+			<title>ESPN</title>
+			<link>
+				<sublink>http://espn.tmedia.me/cache/espn1.m3u8</sublink>
+				<sublink>http://80.80.160.168/live/6/live.m3u8</sublink>
+			</link>
+			<thumbnail>http://i66.tinypic.com/2m4671u.jpg</thumbnail>
+		</item>
+		<item>
+			<title>ESPN 2</title>
+			<link>
+				<sublink>http://espn.tmedia.me/cache/espn2_360.m3u8</sublink>
+				<sublink>http://161.0.157.8/PLTV/88888888/224/3221226881/index.m3u8</sublink>
+			</link>
+			<thumbnail>http://i67.tinypic.com/25uhzq8.jpg</thumbnail>
+		</item>
+		<item>
+			<title>ESPN U</title>
+			<link>http://espn.tmedia.me/cache/espnu.m3u8</link>
+			<thumbnail>http://i63.tinypic.com/2dkg7ko.jpg</thumbnail>
+		</item>
+		<item>
+			<title>CBS Sports HQ</title>
+			<link>https://sportshq-mediapackage-cedexis.cbsaavideo.com/out/v1/be87d7783e5c4270a5830ea5d1164850/desktop_6.m3u8</link>
+			<thumbnail>http://i63.tinypic.com/9hkk5k.jpg</thumbnail>
+		</item>
+		<dir>
+			<title>NBC Sport Networks</title>
+			<link>https://raw.githubusercontent.com/the13clowns/resources/master/tRmKGjTbr/xmls/sports/nbc.xml</link>
+			<thumbnail>http://worldsoccertalk.com/wp-content/uploads/2013/04/nbc-sports-logo-600x450.png</thumbnail>
+		</dir>
+		<item>
+			<title>Fox Sports 1</title>
+			<link>http://stitcher.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?deviceType=&deviceMake=&deviceModel=&sid=2&deviceId=&deviceVersion=&appVersion=&deviceDNT=&userId=&advertisingId=&deviceLat=&deviceLon=-&app_name=&appName=&appStoreUrl=&profileLimit=high</link>
+			<thumbnail>https://foxsports-wordpress-www-prsupports-prod.s3.amazonaws.com/uploads/sites/2/2016/12/020114-13-FS1-FOX-SPORTS-1-LOGO-OB-PI.jpg</thumbnail>
+		</item>
+		<item>
+			<title>Fox Sports 2</title>
+			<link>http://e2.123tv-uk.host/live/fs2/chunks.m3u8|Referer=http://123tvgo.com/watch/fox-sports-2-fs2/</link>
+			<thumbnail>http://i67.tinypic.com/i4e0pc.jpg</thumbnail>
+		</item>
+		<item>
+			<title>Fox Sports Racing</title>
+			<m3u>http://161.0.157.8/PLTV/88888888/224/3221226181/index.m3u8</m3u>
+			<thumbnail>https://wallpaperplay.com/walls/full/9/3/7/249299.jpg</thumbnail>
+		</item>
+		<item>
+			<title>NFL Network</title>
+			<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://ustv247.com/nfl-network-live-stream/</link>
+			<thumbnail>http://i65.tinypic.com/25tjc0m.jpg</thumbnail>
+		</item>
+		<item>
+			<title>Golf Central</title>
+			<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://ustv247.com/golf-channel-live-stream/</link>
+			<thumbnail>https://golfchannel-a.akamaihd.net/ramp/220/574/snaps-about-golf-channel-on-golf-channel-mco1_vl.jpg</thumbnail>
+		</item>
+		<item>
+			<title>[B]******** TESTING ********[/B]</title>
+			<thumbnail></thumbnail>
+		</item>
+		<dir>
+			<name>247</name>
+			<link>https://raw.githubusercontent.com/the13clowns/resources/master/tRmKGjTbr/xmls/test/247.m3u</link>
+			<animated_thumbnail></animated_thumbnail>
+			<thumbnail></thumbnail>
+			<animated_fanart></animated_fanart>
+			<fanart></fanart>
+		</dir>
+		<dir>
+			<name>FILMON</name>
+			<link>https://raw.githubusercontent.com/the13clowns/resources/master/tRmKGjTbr/xmls/test/FILMON.m3u</link>
+			<animated_thumbnail></animated_thumbnail>
+			<thumbnail></thumbnail>
+			<animated_fanart></animated_fanart>
+			<fanart></fanart>
+		</dir>
+		<dir>
+			<name>FIRSTONE</name>
+			<link>https://raw.githubusercontent.com/the13clowns/resources/master/tRmKGjTbr/xmls/test/FIRSTONE.m3u</link>
+			<animated_thumbnail></animated_thumbnail>
+			<thumbnail></thumbnail>
+			<animated_fanart></animated_fanart>
+			<fanart></fanart>
+		</dir>
+		<dir>
+			<name>fromHOT</name>
+			<link>https://raw.githubusercontent.com/the13clowns/resources/master/tRmKGjTbr/xmls/test/fromHOT.m3u</link>
+			<animated_thumbnail></animated_thumbnail>
+			<thumbnail></thumbnail>
+			<animated_fanart></animated_fanart>
+			<fanart></fanart>
+		</dir>
+		<dir>
+			<name>PLTV</name>
+			<link>https://raw.githubusercontent.com/the13clowns/resources/master/tRmKGjTbr/xmls/test/PLTV.m3u</link>
+			<animated_thumbnail></animated_thumbnail>
+			<thumbnail></thumbnail>
+			<animated_fanart></animated_fanart>
+			<fanart></fanart>
+		</dir>
+		<dir>
+			<name>PLUTO</name>
+			<link>https://raw.githubusercontent.com/the13clowns/resources/master/tRmKGjTbr/xmls/test/PLUTO.m3u</link>
+			<animated_thumbnail></animated_thumbnail>
+			<thumbnail></thumbnail>
+			<animated_fanart></animated_fanart>
+			<fanart></fanart>
+		</dir>
+		<dir>
+			<name>SPORTS-STREAMS</name>
+			<link>https://raw.githubusercontent.com/the13clowns/resources/master/tRmKGjTbr/xmls/test/sports-stream.net.m3u</link>
+			<animated_thumbnail></animated_thumbnail>
+			<thumbnail></thumbnail>
+			<animated_fanart></animated_fanart>
+			<fanart></fanart>
+		</dir>
+		<dir>
+			<name>TEXT</name>
+			<link>https://raw.githubusercontent.com/the13clowns/resources/master/tRmKGjTbr/xmls/test/text.m3u</link>
+			<animated_thumbnail></animated_thumbnail>
+			<thumbnail></thumbnail>
+			<animated_fanart></animated_fanart>
+			<fanart></fanart>
+		</dir>
+		<dir>
+			<name>UKTV</name>
+			<link>https://raw.githubusercontent.com/the13clowns/resources/master/tRmKGjTbr/xmls/test/UKTV.m3u</link>
+			<animated_thumbnail></animated_thumbnail>
+			<thumbnail></thumbnail>
+			<animated_fanart></animated_fanart>
+			<fanart></fanart>
+		</dir>
+		<dir>
+			<name>USNEWSLIVE</name>
+			<link>https://raw.githubusercontent.com/the13clowns/resources/master/tRmKGjTbr/xmls/test/USNEWSLIVE.m3u</link>
+			<animated_thumbnail></animated_thumbnail>
+			<thumbnail></thumbnail>
+			<animated_fanart></animated_fanart>
+			<fanart></fanart>
+		</dir>
+		<dir>
+			<name>USTV247</name>
+			<link>https://raw.githubusercontent.com/the13clowns/resources/master/tRmKGjTbr/xmls/test/ustv247.m3u</link>
+			<animated_thumbnail></animated_thumbnail>
+			<thumbnail></thumbnail>
+			<animated_fanart></animated_fanart>
+			<fanart></fanart>
+		</dir>

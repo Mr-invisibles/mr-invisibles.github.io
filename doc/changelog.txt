@@ -1,5 +1,0 @@
-[COLOR limegreen]Angels Video Addon v0.2.6a[/COLOR]
-[COLOR limegreen]Angels Script Module v0.2.1a[/COLOR]
-    - Scraper Updates
-    - Icon code updates
-

@@ -1,8 +1,3 @@
-
-[COLOR darkgray]New Current Version $version$[/COLOR]
-
-
-
 [COLOR snow][B]CURRENT STATUS:[/B][/COLOR] [COLOR springgreen]Good[/COLOR]
 
 [COLOR snow][B]Known Issues:[/B][/COLOR] [COLOR springgreen]None[/COLOR]
@@ -10,5 +5,24 @@
 [COLOR darkgray]-------------------------------------------------------------------------------------------------------[/COLOR]
 
 
+[B][COLOR red]Update - v3.0.0 - June 28, 2019[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] Removed Trakt sync notice at startup.[/I]
+[COLOR yellow]--[/COLOR][I] New icon and menu label system.  You can now set the icon
+    style based on Traditional icons or Meta Provider Logos.
+    You can also add the Meta Provider label to the menu
+    item .. ex (TMDb).  This helps distinguish between.. ex
+    "Popular (IMDb) and Popular (TMDb)[/I]
 
-$changelog$
+[B][COLOR red]Update - v2.9.9 - June 27, 2019[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] Fixed dict key preventing player from starting in OpenMeta.[/I]
+[COLOR yellow]--[/COLOR][I] Changed all movie menus to use new fanarttv indexer.[/I]
+[COLOR yellow]--[/COLOR][I] Fixed some shows from being dropped from TVShows
+    calendar.[/I]
+
+[B][COLOR red]Update - v2.9.8 - June 24, 2019[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] Fixed old depreciated infoLabel that effected some
+    menus showing the watched indicator when in fact the
+    episode was not watched. Most notable was Trakt
+    Progress. This made the side panel options work in
+    reverse when flipping watched to unwatched.[/I]
+[COLOR yellow]--[/COLOR][I] Added traceback to a number of new locations.

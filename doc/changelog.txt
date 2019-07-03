@@ -1,5 +1,7 @@
-[COLOR limegreen]Angels Video Addon v0.2.6a[/COLOR]
-[COLOR limegreen]Angels Script Module v0.2.1a[/COLOR]
-    - Scraper Updates
-    - Icon code updates
-
+[B][COLOR red]Update - v3.0.0 - June 28, 2019[/COLOR][/B]
+[COLOR yellow]--[/COLOR][I] Removed Trakt sync notice at startup.[/I]
+[COLOR yellow]--[/COLOR][I] New icon and menu label system.  You can now set the icon
+    style based on Traditional icons or Meta Provider Logos.
+    You can also add the Meta Provider label to the menu
+    item .. ex (TMDb).  This helps distinguish between.. ex
+    "Popular (IMDb) and Popular (TMDb)[/I]

@@ -1,2 +1,7 @@
-[COLOR red]======[/COLOR][B][COLOR green]Mr.Invisible 8.10.2019[/COLOR][/B][COLOR red]======[/COLOR]
+[COLOR red]======[/COLOR][B][COLOR green]Mr.Invisible 17.10.2019[/COLOR][/B][COLOR red]======[/COLOR]
+
+[COLOR red]======[/COLOR][B][COLOR green]17.10.2019 V.0.1.1[/COLOR][/B][COLOR red]======[/COLOR]
+[B][COLOR yellow]- [/COLOR][/B][COLOR cyan]- Added setting to import scraper modules. Any modules from exodus based video add-ons installed on your system can be added (e.g. Exodus Redux, 13 Clowns etc). [/COLOR]
+[B][COLOR yellow]- [/COLOR][/B][COLOR cyan]- Added setting to remove an imported scraper module. [/COLOR]
+
 [B][COLOR yellow]- [/COLOR][/B][COLOR cyan]- V-0.0.3 everything new menus 1click,Implemented Jen in addon(Thx Destiny)[/COLOR]
